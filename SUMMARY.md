@@ -24,7 +24,7 @@
 
 * [資料分析碎念](data-analysis.md)
 
-  * [資料分析各職位的劃分](division-of-data-analysis.md)
+* [資料分析各職位的劃分](division-of-data-analysis.md)
 
 ## 技術之外的事
 
