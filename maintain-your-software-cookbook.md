@@ -1,6 +1,9 @@
 # 維護你的「軟體食譜」
-## 而非將整個函式庫倒進專案
+#### 而非將整個函式庫倒進專案
 
+原文：[https://medium.com/@leafwind/maintain-your-software-cookbook-238217a2c86d](https://medium.com/@leafwind/maintain-your-software-cookbook-238217a2c86d)
+
+---
 
 
 

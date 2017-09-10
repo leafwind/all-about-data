@@ -1,5 +1,9 @@
 # 為什麼光靠機器學習 的 API 做不出好產品
-##因為缺少有價值的資料作為關鍵的原料
+#### 因為缺少有價值的資料作為關鍵的原料
+
+原文：[https://data.leafwind.tw/it-is-impossible-to-build-a-good-product-without-data-a719688be8d9](https://data.leafwind.tw/it-is-impossible-to-build-a-good-product-without-data-a719688be8d9)
+
+--
 
 重新破題一次：不可能不用有價值的資料，光用 API 就做出好產品
 
