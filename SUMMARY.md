@@ -10,6 +10,8 @@
 
 * [維護你的「軟體食譜」](maintain-your-software-cookbook.md)
 
+* [如何估計技術債的倍數](how-to-estimate-the-ratio-of-technical-dept.md)
+
 ## 資料工程
 
 * [資料工程碎念](data-engineering.md)
