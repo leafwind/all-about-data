@@ -14,6 +14,8 @@
 
 * [資料工程碎念](data-engineering.md)
 
+* [關於 ETL 那些事](things-about-ETL.md)
+
 ## 機器學習
 
 * [機器學習碎念](machine-learning.md)
