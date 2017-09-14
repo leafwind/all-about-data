@@ -38,4 +38,4 @@
 
 * [生態系是唯一解（未完）](ecosystem-is-the-only-solution.md)
 
-* [領22k是應得的嗎？](do-they-deserved-22k.md)
+* [領22k是應得的嗎？(未完)](do-they-deserved-22k.md)
