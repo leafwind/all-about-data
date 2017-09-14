@@ -8,7 +8,7 @@
 
 * [軟體工程碎念](software-engineering.md)
 
-* [維護你的「軟體食譜」](maintain-your-software-cookbook.md)
+* [維護你的「軟體食譜」（未完）](maintain-your-software-cookbook.md)
 
 * [技術債：借過一下的慘痛教訓](technical-dept-the-lesson-from-workaround.md)
 
