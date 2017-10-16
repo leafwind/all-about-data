@@ -36,6 +36,8 @@
 
 * [技術之外的事](misc.md)
 
+* [自動化很簡單，但是你有考慮防呆嗎？](always-consider-foolproof-before-automation.md)
+
 * [生態系是唯一解（未完）](ecosystem-is-the-only-solution.md)
 
 * [領22k是應得的嗎？(未完)](do-they-deserved-22k.md)
