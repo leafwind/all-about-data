@@ -18,7 +18,9 @@
 
 * [資料工程碎念](data-engineering.md)
 
-* [關於 ETL 那些事](things-about-ETL.md)
+* [ETL 那些事](things-about-ETL.md)
+
+* [Data Pipeline Design Check List](ETL-pipeline-design-check-list.md)
 
 ## 機器學習
 
