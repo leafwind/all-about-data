@@ -20,7 +20,7 @@
 
 * [ETL 那些事](things-about-ETL.md)
 
-* [Data Pipeline Design Check List](ETL-pipeline-design-check-list.md)
+* [(not published)Data Pipeline Design Check List](ETL-pipeline-design-check-list.md)
 
 ## 機器學習
 
