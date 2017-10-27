@@ -22,6 +22,9 @@
 
 * [(not published)Data Pipeline Design Check List](ETL-pipeline-design-check-list.md)
 
+* [(not published)Data Pipeline Migration](ETL-pipeline-migration.md)
+
+
 ## 機器學習
 
 * [機器學習碎念](machine-learning.md)
