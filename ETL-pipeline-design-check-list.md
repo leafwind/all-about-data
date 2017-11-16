@@ -1,8 +1,24 @@
-# Data Pipeline Design Check List
+# Data Pipeline Design Rules & Check List
 
 #### 
 
 ---
+
+## Rule \#1 做好 data pruning 的準備
+
+沒有做過 data pipeline 的工程師，在做一個服務的時候
+
+很自然會想要把資料先全部蒐集起來，然後再慢慢處理邏輯
+
+但這麼做很常是不切實際的
+
+的確，機器成本越來越低，很多技術也都已經 scalable，但技術上做得到，不代表預算做得到
+
+所以常常會面臨到無法處理完所有資料的情形
+
+把 fetch cost 最低的資料先拿到，不需要的支線砍掉，fetch cost 最高的擺在最後處理
+
+通常可以只用到原本的 10% 甚至 1% 機器
 
 ## Data Generation
 
@@ -40,7 +56,7 @@
 
   * explain query first
   * Index 有順序的概念，Query 是否有按照順序（i.e. 1 or 1+2 or 1+2+3）？
-  
+
 * Partition
 
   * 單張 table 太大時要切 partition 嗎？
@@ -48,3 +64,6 @@
   * partition size?
   * partition key?
   * 如果原本沒有 partition 要怎麼 migrate table?
+
+
+
