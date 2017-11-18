@@ -20,16 +20,16 @@
 
 * [ETL 那些事](things-about-ETL.md)
 
-* [(not published)Data Pipeline Design Check List](ETL-pipeline-design-check-list.md)
+* [（尚未發佈）Data Pipeline Design Check List](ETL-pipeline-design-check-list.md)
 
-* [(not published)Data Pipeline Migration](ETL-pipeline-migration.md)
+* [（尚未發佈）Data Pipeline Migration](ETL-pipeline-migration.md)
 
 
 ## 機器學習
 
 * [機器學習碎念](machine-learning.md)
 
-* [為什麼光靠機器學習 的 API 做不出好產品](why-it-is-impossible-to-build-a-good-product-without-data.md)
+* [（尚未發佈）為什麼光靠機器學習 的 API 做不出好產品](why-it-is-impossible-to-build-a-good-product-without-data.md)
 
 ## 資料分析
 
