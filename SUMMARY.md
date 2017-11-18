@@ -18,7 +18,7 @@
 
 * [資料工程碎念](data-engineering.md)
 
-* [ETL 那些事](things-about-ETL.md)
+* [（尚未發佈）關於 ETL 那些事：設計原則](things-about-ETL.md)
 
 * [（尚未發佈）Data Pipeline Design Check List](ETL-pipeline-design-check-list.md)
 

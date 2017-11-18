@@ -1,6 +1,6 @@
 # 關於 ETL 那些事：設計原則
 
-#### 
+#### Medium：https://medium.com/p/93b50e3ef4b7/edit
 
 ---
 
