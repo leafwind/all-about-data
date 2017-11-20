@@ -6,14 +6,14 @@
 
 ## 軟體工程
 
-* [軟體工程碎念](software-engineering/software-engineering.md)
+* [軟體工程](software-engineering/README.md)
 * [維護你的「軟體食譜」（未完）](software-engineering/maintain-your-software-cookbook.md)
 * [技術債：借過一下的慘痛教訓](software-engineering/technical-dept-the-lesson-from-workaround.md)
 * [如何估計技術債的倍數（未完）](software-engineering/how-to-estimate-the-ratio-of-technical-dept.md)
 
 ## 資料工程
 
-* [資料工程碎念](data-engineering/data-engineering.md)
+* [資料工程](data-engineering/README.md)
 * [真實世界的資料](data-engineering/real-world-data.md)
   * [資料是活的（變動太快）、亦是死的（真假難辨）](data-engineering/data-is-alive-and-dead-at-the-same-time.md)
   * [無法重現、難以追本溯源、幾乎不可能避免](data-engineering/wu-fa-zhong-xian-3001-nan-yi-zhui-ben-su-yuan-3001-ji-hu-bu-ke-neng-bi-mian.md)
@@ -26,7 +26,7 @@
 
 ## 機器學習
 
-* [機器學習碎念](machine-learning/machine-learning.md)
+* [機器學習](machine-learning/README.md)
 * [（尚未發佈）為什麼光靠機器學習 的 API 做不出好產品](machine-learning/why-it-is-impossible-to-build-a-good-product-without-data.md)
 
 ## 資料分析
