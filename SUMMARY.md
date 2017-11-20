@@ -33,7 +33,7 @@
 ## 資料分析
 
 * [資料分析](data-analysis/README.md)
-* [資料分析各職位的劃分](data-analysis/division-of-data-analysis.md)
+* [（未發佈）資料分析各職位做些什麼？](data-analysis/division-of-data-analysis.md)
 * [（未發佈）資料分析與產品商業邏輯的「最佳距離」](data-analysis/the-best-distance-between-data-analysis-and-business-logic.md)
 
 ## 技術之外的事
