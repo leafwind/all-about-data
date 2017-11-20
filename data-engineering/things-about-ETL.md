@@ -1,8 +1,24 @@
-# 關於 ETL 那些事：設計原則
+# （尚未發佈）data schema 設計原則
 
-#### Medium：https://medium.com/p/93b50e3ef4b7/edit
+#### 
 
 ---
+
+## 基本原則
+
+
+---
+
+* What: 資料所代表的物理意義是什麼？
+* How: 生產者是如何產生、使用者會如何使用（同時也有助於了解上一點）
+* Who: 誰產生這些資料、誰可能會用到這些資料
+* Define what should (not) appear
+
+
+無形的 gap
+應用之間、資料庫之間、組織之間、公司之間
+這些都會增加 data pipeline 的溝通困難，因而導致資料「變質」
+
 
 ## time
 
@@ -34,9 +50,7 @@ half-open interval is preferred
 
 [Time intervals and other ranges should be half-open](http://wrschneider.github.io/2014/01/07/time-intervals-and-other-ranges-should.html)
 
-## 
-
-## Schema 設計不該犯的錯誤
+## 不該犯的錯誤
 
 ### 不要增加無意義的欄位
 
@@ -58,11 +72,4 @@ half-open interval is preferred
 
 除非去看原始碼，否則看到的人絕對不知道是從哪個 timestamp 生出來的時間
 
-
-## 上下游需求
-
-上游更新頻率、delay，何時開始跑才不會炸  
-下游需求的更新頻率、需求 delay，如何通知他
-
--&gt; airflow dag, jenkins trigger/polling
 

@@ -81,6 +81,17 @@
   * 會需要以前的資料嗎？
   * 如果要，從多久以前開始？
 
+
+## 上下游需求
+
+上游更新頻率、delay，何時開始跑才不會炸
+下游需求的更新頻率、需求 delay，如何通知他
+
+### 工具：
+
+airflow dag, jenkins trigger/polling
+
+
 ## Data Storage
 
 #### SQL
