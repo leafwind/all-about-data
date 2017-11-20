@@ -1,4 +1,4 @@
-# （尚未發佈）data schema 設計原則
+# Data Schema 設計原則
 
 #### 
 

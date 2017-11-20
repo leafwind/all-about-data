@@ -1,4 +1,4 @@
-# （尚未發佈）Data 可以比 code 還難懂
+# Data 可以比 code 還難懂
 
 ![](/assets/encoded-data.jpg)
 

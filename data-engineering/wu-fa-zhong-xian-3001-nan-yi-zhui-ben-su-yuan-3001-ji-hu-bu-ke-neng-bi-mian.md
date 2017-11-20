@@ -1,4 +1,4 @@
-# （尚未發佈）為什麼真實世界資料 (real-world data) 難搞之 2. Debugging
+# 為什麼真實世界資料 (real-world data) 難搞之 2. Debugging
 #### 只要 workaround 掉，之後再回來解 root cause 就好了
 ---
 
