@@ -31,12 +31,12 @@
 
 ## 資料分析
 
-* [資料分析碎念](data-analysis/data-analysis.md)
+* [資料分析](data-analysis/README.md)
 * [資料分析各職位的劃分](data-analysis/division-of-data-analysis.md)
 
 ## 技術之外的事
 
-* [技術之外的事](things-beyond-technology/things-beyond-technology.md)
+* [技術之外的事](things-beyond-technology/README.md)
 * [自動化很簡單，但是你有考慮防呆嗎？](things-beyond-technology/always-consider-foolproof-before-automation.md)
 * [\(not published\)什麼時候該用愚蠢的解法？](things-beyond-technology/when-to-use-stupid-solution.md)
 * [生態系是唯一解（未完）](things-beyond-technology/ecosystem-is-the-only-solution.md)
