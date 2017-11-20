@@ -24,7 +24,7 @@
 * [（尚未發佈）Data Pipeline Design Check List](data-engineering/ETL-pipeline-design-check-list.md)
 * [（尚未發佈）Data Pipeline Migration](data-engineering/ETL-pipeline-migration.md)
 * [（尚未發佈）適度重用 ETL](data-engineering/reuse-ETL-moderately.md)
-* [（未發佈）ETL 與產品商業邏輯的「最佳距離」](data-engineering/the-best-distance-between-ETL-and-business-logic)
+* [（未發佈）ETL 與產品商業邏輯的「最佳距離」](data-engineering/the-best-distance-between-ETL-and-business-logic.md)
 
 ## 機器學習
 
