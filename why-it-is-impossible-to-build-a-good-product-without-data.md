@@ -3,7 +3,7 @@
 
 原文尚未發佈：[https://data.leafwind.tw/it-is-impossible-to-build-a-good-product-without-data-a719688be8d9](https://data.leafwind.tw/it-is-impossible-to-build-a-good-product-without-data-a719688be8d9)
 
---
+---
 
 重新破題一次：不可能不用有價值的資料，光用 API 就做出好產品
 
