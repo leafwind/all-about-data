@@ -25,7 +25,6 @@
 * [（尚未發佈）Data Pipeline Migration](data-engineering/ETL-pipeline-migration.md)
 * [（尚未發佈）適度重用 ETL](data-engineering/reuse-ETL-moderately.md)
 
-
 ## 機器學習
 
 * [機器學習](machine-learning/README.md)
@@ -45,6 +44,6 @@
 * [生態系是唯一解（未完）](things-beyond-technology/ecosystem-is-the-only-solution.md)
 * [領22k是應得的嗎？\(未完\)](things-beyond-technology/do-they-deserved-22k.md)
 * [（未發佈）為什麼我開始改用 gitbook 編輯草稿](things-beyond-technology/the-reason-why-I-start-using-gitbook-to-edit-draft.md)
-* [工作快樂指數的隱形殺手：跟你認為愚蠢的人共事]()
+* 工作快樂指數的隱形殺手：跟你認為愚蠢的人共事
 * \[畫大餅的必要之惡\]
 
