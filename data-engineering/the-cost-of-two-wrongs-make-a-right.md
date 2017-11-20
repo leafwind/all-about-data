@@ -92,3 +92,5 @@ False
 這些資料如果是給人來看，大部分問題還不嚴重
 
 但若是給機器看，這個 feature 就會被當做是非洲的資料（也就是「弄髒」了）
+
+ref: [Null, Empty String, Or Zero?](https://www.timmitchell.net/post/2015/04/06/null-empty-string-or-zero/)

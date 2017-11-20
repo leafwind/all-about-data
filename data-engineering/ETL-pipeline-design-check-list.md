@@ -4,6 +4,8 @@
 
 ---
 
+# Rules
+
 ## Rule \#1 做好 data pruning 的準備 / 培養 data fetch cost 的概念
 
 沒有做過 data pipeline 的工程師，在做一個服務的時候
@@ -53,7 +55,9 @@
 
 需要 B 資料，但有 10% 的機會拿不到要 retry，甚至無法同步拿到，只能改用非同步
 
-## Data Generation
+# Check Lists
+
+## Data Generation（不只是生資料，還要問怎麼生）
 
 * Delay
 
@@ -82,15 +86,43 @@
   * 如果要，從多久以前開始？
 
 
-## 上下游需求
+## Connectivity（上下游需求有問清楚嗎？）
 
 上游更新頻率、delay，何時開始跑才不會炸
 下游需求的更新頻率、需求 delay，如何通知他
 
-### 工具：
+#### 工具：
 
 airflow dag, jenkins trigger/polling
 
+
+## Pipeline Healthy (Monitor/Alert)
+
+在重要的環節加入 log 是很合理而且直觀的
+
+理論上 Airflow, Prometheus 可以幫助做到這件事情
+
+但礙於時間限制，有時候不可能在所有資料生成的時候都這樣做
+（e.g. 有些 ETL 在資料庫裡面查詢做轉換、有些甚至在應用程式邏輯裡面偷偷做轉換）
+
+因此常常是爆炸之後一路循線上去查才發現某個地方有問題
+
+有哪些常見需要記錄的問題？
+
+data discrepancy
+
+> 少了幾筆
+
+schema error
+> 完全不合規範的非法資料
+
+data inconsistency
+
+> 不那麼嚴重但是邏輯上有瑕疵的問題
+
+performance / expected time
+
+> 生太慢、沒有在預期時間內產出
 
 ## Data Storage
 
