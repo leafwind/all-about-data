@@ -17,9 +17,13 @@ migrate 期間，需求也會一直增加
 
 如果加在新的，最新的功能可能會跟新的架構衝突
 
+
+
+pull request 也會隨著時間慢慢地跟 master branch（假設以 master 為主）越離越遠
+
+如果沒有定時 rebase，到時候解 conflict 的時間可能比重寫還久
+
 ---
-
-
 
 某個 metric 原本應該要根據 key 分開出
 
