@@ -46,7 +46,7 @@
 * [（未發佈）為什麼我開始改用 gitbook 編輯草稿](things-beyond-technology/the-reason-why-I-start-using-gitbook-to-edit-draft.md)
 * 工作快樂指數的隱形殺手：跟你認為愚蠢的人共事
 * \[畫大餅的必要之惡\]
-* （未發佈）工程師的單點故障 \(Single Point of Failure\)
+* [（未發佈）工程師的單點故障 \(Single Point of Failure\)](things-beyond-technology/SPOF-of-RD.md)
 
 
 
