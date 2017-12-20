@@ -44,6 +44,8 @@
 regular backfill  
 abnormal backfill
 
+關於時區，打算用另一篇文章來解釋我遇過的問題
+
 ### interval
 
 half-open interval is preferred
