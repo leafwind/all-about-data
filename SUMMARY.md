@@ -41,7 +41,6 @@
 * [技術之外的事](things-beyond-technology/README.md)
 * [（未發佈）自動化很簡單，但是你有考慮防呆嗎？](things-beyond-technology/always-consider-foolproof-before-automation.md)
 * [（未發佈）什麼時候該用愚蠢的解法？](things-beyond-technology/when-to-use-stupid-solution.md)
-* [（未發佈）生態系是唯一解](things-beyond-technology/ecosystem-is-the-only-solution.md)
 * [（未發佈）領22k是應得的嗎？](things-beyond-technology/do-they-deserved-22k.md)
 * [（未發佈）為什麼我開始改用 gitbook 編輯草稿](things-beyond-technology/the-reason-why-I-start-using-gitbook-to-edit-draft.md)
 * 工作快樂指數的隱形殺手：跟你認為愚蠢的人共事
