@@ -20,9 +20,6 @@
 * [資料的複雜度](data-engineering/complexity-of-data.md)
   * [（未發佈）Data 可以比 code 還難懂](data-engineering/data-can-be-harder-understand-than-code.md)
   * [（未發佈）積非成是的資料，與其相對應的龐大代價](data-engineering/the-cost-of-two-wrongs-make-a-right.md)
-* [（未發佈）Data Schema 設計原則](data-engineering/things-about-ETL.md)
-* [（未發佈）Data Pipeline Design Check List](data-engineering/ETL-pipeline-design-check-list.md)
-* [（未發佈）Data Pipeline Migration](data-engineering/ETL-pipeline-migration.md)
 * [（未發佈）適度重用 ETL](data-engineering/reuse-ETL-moderately.md)
 
 ## 機器學習
@@ -46,6 +43,4 @@
 * 工作快樂指數的隱形殺手：跟你認為愚蠢的人共事
 * \[畫大餅的必要之惡\]
 * [（未發佈）工程師的單點故障 \(Single Point of Failure\)](things-beyond-technology/SPOF-of-RD.md)
-
-
 
