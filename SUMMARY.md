@@ -14,13 +14,9 @@
 ## 資料工程
 
 * [資料工程](data-engineering/README.md)
-* [真實世界的資料](data-engineering/real-world-data.md)
-  * [資料是活的（變動太快）、亦是死的（真假難辨）](data-engineering/data-is-alive-and-dead-at-the-same-time.md)
-  * [（未發佈）無法重現、難以追本溯源、幾乎不可能避免](data-engineering/wu-fa-zhong-xian-3001-nan-yi-zhui-ben-su-yuan-3001-ji-hu-bu-ke-neng-bi-mian.md)
 * [資料的複雜度](data-engineering/complexity-of-data.md)
   * [（未發佈）Data 可以比 code 還難懂](data-engineering/data-can-be-harder-understand-than-code.md)
   * [（未發佈）積非成是的資料，與其相對應的龐大代價](data-engineering/the-cost-of-two-wrongs-make-a-right.md)
-* [（未發佈）適度重用 ETL](data-engineering/reuse-ETL-moderately.md)
 
 ## 機器學習
 
