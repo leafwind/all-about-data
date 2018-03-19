@@ -11,10 +11,6 @@
 
 ## 資料工程
 
-* [資料工程](data-engineering/README.md)
-* [資料的複雜度](data-engineering/complexity-of-data.md)
-  * [（未發佈）積非成是的資料，與其相對應的龐大代價](data-engineering/the-cost-of-two-wrongs-make-a-right.md)
-
 ## 機器學習
 
 * [機器學習](machine-learning/README.md)
