@@ -14,7 +14,6 @@
 ## 機器學習
 
 * [機器學習](machine-learning/README.md)
-* [（未發佈）為什麼光靠機器學習 的 API 做不出好產品](machine-learning/why-it-is-impossible-to-build-a-good-product-without-data.md)
 
 ## 資料分析
 
