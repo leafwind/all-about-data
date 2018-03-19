@@ -15,7 +15,6 @@
 
 * [資料工程](data-engineering/README.md)
 * [資料的複雜度](data-engineering/complexity-of-data.md)
-  * [（未發佈）Data 可以比 code 還難懂](data-engineering/data-can-be-harder-understand-than-code.md)
   * [（未發佈）積非成是的資料，與其相對應的龐大代價](data-engineering/the-cost-of-two-wrongs-make-a-right.md)
 
 ## 機器學習
