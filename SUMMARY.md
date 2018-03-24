@@ -6,8 +6,6 @@
 
 ## 軟體工程
 
-* [技術債：借過一下的慘痛教訓](software-engineering/technical-dept-the-lesson-from-workaround.md)
-
 ## 資料分析
 
 * [（未發佈）資料分析各職位做些什麼？](data-analysis/division-of-data-analysis.md)
